@@ -1,0 +1,14 @@
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\bin\Debug\netcoreapp3.1\Taller 1 Edwin.exe
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\bin\Debug\netcoreapp3.1\Taller 1 Edwin.deps.json
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\bin\Debug\netcoreapp3.1\Taller 1 Edwin.runtimeconfig.json
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\bin\Debug\netcoreapp3.1\Taller 1 Edwin.runtimeconfig.dev.json
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\bin\Debug\netcoreapp3.1\Taller 1 Edwin.dll
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\bin\Debug\netcoreapp3.1\Taller 1 Edwin.pdb
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\obj\Debug\netcoreapp3.1\Taller 1 Edwin.csproj.AssemblyReference.cache
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\obj\Debug\netcoreapp3.1\Taller 1 Edwin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\obj\Debug\netcoreapp3.1\Taller 1 Edwin.AssemblyInfoInputs.cache
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\obj\Debug\netcoreapp3.1\Taller 1 Edwin.AssemblyInfo.cs
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\obj\Debug\netcoreapp3.1\Taller 1 Edwin.csproj.CoreCompileInputs.cache
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\obj\Debug\netcoreapp3.1\Taller 1 Edwin.dll
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\obj\Debug\netcoreapp3.1\Taller 1 Edwin.pdb
+C:\Users\SENA\source\repos\Taller 1 Edwin\Taller 1 Edwin\obj\Debug\netcoreapp3.1\Taller 1 Edwin.genruntimeconfig.cache
